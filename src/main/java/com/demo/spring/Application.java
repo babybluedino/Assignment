@@ -1,9 +1,9 @@
 /* Que 2. Changes made in the locally to be pushed to remote repository*/
 
-=============================================================
+//=============================================================
 /*Que 3. changes made from the remote repository */ 
 
-=============================================================	
+//=============================================================	
 package com.demo.spring;
 
 import org.springframework.boot.SpringApplication;
