@@ -1,5 +1,7 @@
 /* ques 2. changes made locally */
 
+/* ques 3. changes made from remote repository */
+
 package com.demo.spring;
 
 import org.springframework.web.bind.annotation.GetMapping;
